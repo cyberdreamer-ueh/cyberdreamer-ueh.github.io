@@ -1,0 +1,8 @@
+setTextbox:hide;
+bgm:emotional-sad-piano-for-an-intro-or-a-documentary-suspense-90-bpm-121528.mp3;
+setTextbox:hide -next;
+changeBg:TN1.png -next;
+playEffect:notification.mp3 -next;
+setTextbox:on;
+:Tuy nhiên, gia đình Lin khá hờ hững và không coi trọng vấn đề này -fontSize=default;
+choose:Đồng ý với gia đình và tiếp tục cam chịu :s4c31.txt|Giải thích với người thân và cùng nhau giải quyết vấn đề:s4c32.txt;

@@ -1,0 +1,5 @@
+setTextbox:hide -next;
+changeBg:TN3.png;
+setTextbox:on -next;
+:Để thuyết phục bố mẹ, Lin cần học cách giải thích và thuyết phục người thân. -fontSize=default;
+changeScene:minigame2.txt

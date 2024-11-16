@@ -1,0 +1,3 @@
+changeBg:LinPhoneBrokenHeart.png -next;
+:Bạn hãy chọn hành động của mình -fontSize=default -next;
+choose:Vạch trần sự thật về bạn trai trên mạng xã hội để cảnh cáo và xin lời khuyên từ mọi người:s2c1.txt|Làm lơ bạn trai và im lặng chịu đựng:s2c2.txt|Báo với cơ quan chức năng:s2c3.txt;

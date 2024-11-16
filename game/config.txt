@@ -1,0 +1,5 @@
+Game_name:CyberDreamer;
+Game_key:2403d8bcae60c8e;
+Title_img:macbook.png;
+Title_bgm:None;
+Textbox_theme:imss;

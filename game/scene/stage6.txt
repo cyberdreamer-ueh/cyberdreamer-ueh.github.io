@@ -1,0 +1,9 @@
+bgm:the-last-goodbye-142612.mp3;
+changeBg: -next;
+setTextbox:hide;
+playEffect:yandere-laugh-87511.mp3;
+changeBg:LinFriendHologram.png -next;
+setTextbox:on -next;
+Tình huống 6:Lin thấy một nhóm bạn đang chế giễu và xúc phạm một bạn khác trong |lớp trên nhóm trò chuyện trực tuyến. -fontSize=default;
+:Bạn hãy chọn hành động của mình -fontSize=default;
+choose:Lin đưa lời khuyên cho bạn mình:s6c1.txt|Lắng nghe và đồng hành:s6c2.txt|Để mặc bạn tự xử lý:s6c3.txt;

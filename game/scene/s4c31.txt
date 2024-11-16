@@ -1,0 +1,5 @@
+setTextbox:hide -next;
+changeBg:TN2.png;
+setTextbox:on -next;
+:Vì im lặng và chịu đựng nên nhóm bạn càng được đà lấn tới và công kích Lin nhiều hơn -fontSize=default;
+changeScene:stage5.txt

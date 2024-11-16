@@ -1,0 +1,5 @@
+bgm:none;
+setTextbox:hide -next;
+playEffect:bonus.mp3;
+changeBg:s6b2o.png;
+changeScene:end.txt

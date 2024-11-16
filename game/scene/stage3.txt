@@ -1,0 +1,15 @@
+bgm:bgm-blues-guitar-loop-192099.mp3 -volume=50;
+playEffect:choir.mp3 -volume=50;
+setTextbox:on -next;
+changeBg:CaSi.png -next;
+Tình huống 3:Lin là một fan cứng của ca sĩ X, cô không bỏ lỡ bất kỳ hoạt động nào của thần tượng và tích cực chia sẻ chúng với cộng đồng mạng. -fontSize=default;
+setTextbox:hide -next;
+playEffect:beep-warning-6387.mp3 -volume=30;
+changeBg:CaSiwarning.png;
+changeBg:CasiText.png;
+setTextbox:on -next;
+Bỗng nhiên,một cú sốc lớn đã giáng xuống sự nghiệp của nữ ca sĩ khi tin |đồn hẹn hò bất ngờ bị phanh phui. -fontSize=default;
+Cộng đồng mạng nhanh chóng quay lưng, đồng loạt tấn công cô bằng những lời lẽ cay nghiệt, các bình luận tiêu cực tràn lan trên mạng xã hội, từ việc chỉ trích ngoại hình, tài năng đến việc lập ra những group anti-fan để tấn công cô một cách ác liệt. -fontSize=small;
+Bạn hãy chọn hành động của mình -fontSize=default;
+changeBg:CaSi.png -next;
+choose:Giữ im lặng và không tham gia vào:s3c1.txt|Bày tỏ quan điểm ủng hộ các bài đăng chỉ trích:s3c2.txt|Báo cáo những bình luận tiêu cực:s3c3.txt;

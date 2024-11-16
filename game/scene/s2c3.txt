@@ -1,0 +1,15 @@
+bgm:none;
+setTextbox:hide -next;
+changeBg:none;
+playEffect:kl-music-box-game-over-iii-152202.mp3 -volume=50;
+changeBg:LinHologram1.png;
+changeBg:LinHologram2.png;
+changeBg:none;
+playEffect:bonus.mp3;
+changeBg:s2b3c.png -next;
+setTextbox:on -next;
+:Bạn trai có thể bị xử lý theo những quy định của pháp luật sau: -fontSize=default;
+playEffect:pageturn.mp3;
+setTextbox:hide -next;
+changeBg:s2b3o.png;
+changeScene:stage3.txt

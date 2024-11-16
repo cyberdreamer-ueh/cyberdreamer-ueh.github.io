@@ -1,0 +1,7 @@
+bgm:none;
+setTextbox:hide -next;
+playEffect:appearance-effect-6733.mp3;
+changeBg:letter.png;
+playEffect:pageturn.mp3;
+changeBg:letter1.png;
+changeScene:end.txt

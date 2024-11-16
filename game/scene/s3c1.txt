@@ -1,0 +1,13 @@
+setTextbox:hide -next;
+playEffect:glitch-01-231255.mp3 -volume=50;
+changeBg:TT1.png;
+playEffect:glitch-01-231255.mp3 -volume=50;
+changeBg:TT2.png;
+playEffect:glitch-01-231255.mp3 -volume=50;
+changeBg:TT3.png;
+playEffect:glitch-01-231255.mp3 -volume=50;
+changeBg:TT4.png;
+changeBg:none;
+setTextbox:on -next;
+:Thay vì giữ im lặng và không làm gì, để tránh xảy ra các tình huống thương tâm, hãy tập |luyện thói quen báo cáo bình luận tiêu cực trên mạng xã hội cùng Lin nhé! -fontSize=small;
+choose:OK:minigame.txt;

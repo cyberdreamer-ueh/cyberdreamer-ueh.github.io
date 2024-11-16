@@ -1,0 +1,5 @@
+:Sự công kích của Lin làm nhóm bạn phẫn nộ và công kích nặng nề hơn. -fontSize=default;
+:Lin là một người thích đăng ảnh, cập nhật cuộc sống hằng ngày. -fontSize=default;
+:Tuy nhiên, mỗi lần Lin đăng ảnh và story, lúc nào cũng có một nhóm bạn thân mà Lin biết, lúc nào cũng đồng loạt thả wow và đăng những ghi chú -fontSize=default;
+:và story ẩn ý miệt thị về cân nặng mà Lin biết đối tượng nhắm tới chính là Lin. -fontSize=default;
+changeScene:stage5.txt

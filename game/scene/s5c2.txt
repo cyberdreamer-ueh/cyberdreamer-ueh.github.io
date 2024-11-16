@@ -1,0 +1,7 @@
+bgm:none;
+playEffect:bonus.mp3;
+changeBg:s5b2c.png -next;
+setTextbox:hide;
+playEffect:pageturn.mp3;
+changeBg:s5b2o.png;
+changeScene:stage6.txt

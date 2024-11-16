@@ -1,0 +1,11 @@
+bgm:none;
+setTextbox:hide -next;
+changeBg:none;
+playEffect:kl-music-box-game-over-iii-152202.mp3 -volume=50;
+changeBg:LinHologram1.png -next;
+setTextbox:on -next;
+:Lin có thể phải sống trong nỗi lo sợ suốt khoảng thời gian còn lại. -fontSize=medium;
+:Những lời đe doạ có thể sẽ vẫn được gửi đến theo nhiều hình thức và ở |mức độ nghiêm trọng hơn. -fontSize=default;
+:Vấn đề này có thể khiến Lin bị ảnh hưởng về tinh thần và tâm lý, có thể dẫn đến thay đổi tính cách, trầm cảm và có những hành động dại dột với bản thân -fontSize=small;
+:Sau khi xem xét những tình huống xấu có thể xảy ra, Lin hãy chọn lại cách giải quyết khác nhé! -fontSize=default;
+choose:Quay lại:stage2option.txt;

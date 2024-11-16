@@ -1,0 +1,17 @@
+changeBg: -next;
+setTextbox:hide;
+bgm:a-fond-memory-116759.mp3;
+changeBg:LinPCsmile.png -next;
+setTextbox:on -next;
+playEffect:keyboard.mp3;
+Tình huống 1:Lin tham gia vào nhóm diễn đàn trường trên Facebook để tìm hiểu và cập nhật thông tin. -fontSize=default;
+Dạo gần đây, Lin nhận thấy nhóm thảo luận đang có rất nhiều bài viết và bình luận chỉ trích chương trình âm nhạc mà cô tham gia vài ngày trước. -fontSize=default;
+Vì tò mò nên Lin bắt đầu đọc thử. -fontSize=default;
+changeBg:LinPCshock.png -next;
+playEffect:notification.mp3;
+playEffect: Choose a sound effect file;
+Càng đọc, Lin nhận thấy mọi người càng dần gay gắt hơn, hàng loạt bình luận tiêu cực, độc |hại liên tục xuất hiện mặc cho BTC sau đó cũng đã có động thái lên tiếng xin lỗi. -fontSize=small;
+Nhiều người còn quá đáng đến mức bắt bẻ và phản bác ngược lại những|lời xin lỗi của BTC. -fontSize=default;
+Lin dường như bị kéo vào những lời nói độc hại và ác ý của những người dùng trên không gian mạng, ... -fontSize=default;
+Bạn hãy chọn hành động của mình -fontSize=default;
+choose:Giữ im lặng và không tham gia vào:s1c1.txt|Bày tỏ quan điểm ủng hộ các bài đăng chỉ trích:s1c2.txt|Bênh vực BTC:s1c3.txt;

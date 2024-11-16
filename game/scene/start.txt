@@ -1,0 +1,8 @@
+bgm:bgm.mp3;
+changeBg:Lin.png -next;
+Bối cảnh:Trò chơi diễn ra trong một thế giới ảo, nơi người chơi nhập vai vào một sinh viên tên Lin. Lin là một sinh viên vừa mới bước chân vào môi trường đại học và đang háo hức khám phá |cuộc sống sinh viên với nhiều kỳ vọng. -fontSize=small;
+Mục tiêu:Người chơi sẽ đồng hành cùng Lin trong hành trình đối mặt với cyberbullying (bắt nạt trên |mạng) và học cách ứng phó với các tình huống khác nhau, nhằm mục đích trang bị cho người chơi những kỹ năng để đối phó với vấn đề này. -fontSize=small;
+Luật chơi:Trò chơi sẽ đưa ra các tình huống khác nhau liên quan đến cyberbullying, người chơi sẽ phải đưa ra lựa chọn để giải quyết. Mỗi lựa chọn sẽ ảnh hưởng đến diễn biến câu chuyện và mối quan hệ của Lin với các nhân vật khác. -fontSize=small;
+Lưu ý:Sẽ không có đáp án đúng sai cho mỗi tình huống, sự lựa chọn của người chơi sẽ chỉ ảnh hưởng đến diễn biến câu chuyện. -fontSize=default;
+Lưu ý:Trong quá trình chơi, bạn có thể chọn nút Backlog ở phía dưới để xem lại các đoạn hội thoại trước đó. -fontSize=default;
+callScene:stage1.txt

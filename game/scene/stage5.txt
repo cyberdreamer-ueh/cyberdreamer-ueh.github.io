@@ -1,0 +1,10 @@
+bgm:lonely-beautiful-piano-music-233867.mp3;
+changeBg: -next;
+setTextbox:hide;
+playEffect:notification.mp3;
+changeBg:6 note.png -next;
+setTextbox:on -next;
+Tình huống 5:Lin là một người thích đăng ảnh, cập nhật cuộc sống hằng ngày. -fontSize=medium;
+Tuy nhiên, mỗi lần Lin đăng ảnh và story thì có một nhóm bạn thân nhau mà Lin biết, lúc nào cũng đồng loạt thả wow và đăng những ghi chú và story ẩn ý miệt thị về cân nặng mà Lin biết đối tượng nhắm tới chính là Lin. -fontSize=small;
+Bạn hãy chọn hành động của mình -fontSize=default;
+choose:Nói chuyện trực tiếp một cách bình tĩnh và thẳng thắn:s5c1.txt|Tập trung vào bản thân để giải quyết những vấn đề tâm lý cho chính mình:s5c2.txt;

@@ -1,0 +1,7 @@
+changeBg: Choose a background;
+changeBg:Lin.png -next;
+bgm:game-music-loop-6-144641.mp3;
+setTextbox:on -next;
+:Cảm ơn bạn đã tham gia trò chơi Cyber Dreamers, đồng hành cùng Lin trong việc đối phó với các tình huống bạo lực mạng. -fontSize=default;
+:Hãy đón chờ chặng Triển lãm và Workshop tiếp theo để chứng kiến những|nhân vật và tình huống trong game bước ra đời thực nhé! -fontSize=default;
+end;
